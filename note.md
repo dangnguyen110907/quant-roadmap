@@ -1,1 +1,2 @@
-Mục tiêu: Lỗ 100 triệu mỗi tháng từ Quant
+Mục tiêu: Kiếm 100 triệu mỗi tháng từ Quant
+
