@@ -1,0 +1,16 @@
+# Bỏ qua các file cache và file tạm của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Bỏ qua thư mục rác của pytest
+.pytest_cache/
+
+# Bỏ qua các file môi trường
+.env
+.venv
+env/
+venv/
+
+# Bỏ qua thư mục cấu hình cá nhân nếu cần
+.vscode/
