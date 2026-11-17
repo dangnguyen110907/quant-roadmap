@@ -1,1 +1,1 @@
-STOP_LOSS = 0.05
+STOP_LOSS = 0.02
